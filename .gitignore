@@ -1,0 +1,16 @@
+# Dataset
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual environment
+.venv/
+venv/
+
+# Temporary files
+.DS_Store
